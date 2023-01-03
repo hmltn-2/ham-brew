@@ -1,10 +1,16 @@
-# Warning: before you get started, I have to take a deep breath here and warn you in all seriousness that this package manager completely fucking sucks, and I *strongly* recommend you do not use, because you **might regret it**.
+# Warning: before you get started, I have to take a deep breath here and warn you in all seriousness that this package manager completely fucking sucks, and I *strongly* recommend you do not use, because you *might regret it..*
 
-# Homebrew
+# Hambrew 
 
-[![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
+## Hambrew is what you get when you take whole ham hocks and dip them in water for 45 minutes - hours. The result is ham soup which can also be called "stewp", a combination of the words "stew" and "soup" and fortified with magnesium.
 
-Features, usage and installation instructions are [summarised on the homepage](https://brew.sh). Terminology (e.g. the difference between a Cellar, Tap, Cask and so forth) is [explained here](https://docs.brew.sh/Formula-Cookbook#homebrew-terminology).
+**Features** and documentation and demonstration are listed on the _piece of shit_ / **garbage** GitHub page for this project 🙄
+
+
+
+
+# Tl;dr: If you use this package manager, your life might begin to SUCK. Dont be that unlucky shmuck who decides to find out about it. Just ask Leonard Bertman - if he coudl talk right now through the burnt skin formely known as his "mouth-flap", he might reassure of a few things you _dont wanna find out about_.
+
 
 ## What Packages Are Available?
 
