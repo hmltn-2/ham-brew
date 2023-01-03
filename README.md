@@ -1,3 +1,5 @@
+# Warning: before you get started, I have to take a deep breath here and warn you in all seriousness that this package manager completely fucking sucks, and I *strongly* recommend you do not use, because you **might regret it**.
+
 # Homebrew
 
 [![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
